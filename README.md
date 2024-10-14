@@ -13,5 +13,3 @@ Inserts a "#" at the beginning of the line the cursor is on.
 - alternatively to install it, you can copy the bundle `TK [bundle name] in the folder `~/Library/Application\ Support/TheArchive/Plugins/Installed`
 - enable the plug-in in "The Archive" application:
 - in the toolbar menu, select _Plug-Ins > Manage Plug-Ins..._
-
-Test
