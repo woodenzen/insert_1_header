@@ -1,7 +1,7 @@
 # Insert a Level 1 Heading 
 _A plug-in for "The Archive" application_
 
-This repository provides way to set a keyboard shortcut for making a line a level 1 heading.
+This plugin provides way to set a keyboard shortcut for making a line a level 1 heading.
 
 Inserts a "#" at the beginning of the line the cursor is on.
   - Best when a shortcut key is setup in the "Manage Plugins" panel.
